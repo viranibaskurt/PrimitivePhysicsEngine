@@ -103,7 +103,7 @@ def main():
     size = [SCREEN_WIDTH, SCREEN_HEIGHT]
     screen = pygame.display.set_mode(size)
  
-    pygame.display.set_caption("Bouncing Balls")
+    pygame.display.set_caption("Primitive Physics Engine")
  
     # Loop until the user clicks the close button.
     done = False
